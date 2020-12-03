@@ -28,8 +28,8 @@ You can find the original CAD files for yourself to modify at the following link
 
 
 
-![din_bracket](/Users/mmemete/alternative_din_brackets/Images/section_view_bracket.png)
+![din_bracket](/Images/section_view_bracket.png)
 
-![din_bracket](/Users/mmemete/alternative_din_brackets/Images/din_bracket.gif)
+![din_bracket](/Images/din_bracket.gif)
 
-![photo_3d_printed_din_brackets](/Users/mmemete/alternative_din_brackets/Images/photo_3d_printed_din_brackets.png)
+![photo_3d_printed_din_brackets](/Images/photo_3d_printed_din_brackets.png)
