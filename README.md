@@ -13,7 +13,7 @@ Inspired by a design from *mdkendall* found in Thingiverse (https://www.thingive
 | RS-25 PSU Bracket    |         6.96          |        5.49        |
 | Rpi Bracket          |         4.38          |        5.42        |
 | LRS PSU Bracket (x2) |         9.30          |       11.73        |
-| **TOTAL**            |     **20.64   **      |    **22.64  **     |
+| TOTAL                |        20.64          |       22.64        |
 
 The new design is much more robust since the layers are orthogonal to the DIN metal edge and aren't forced to split if too much force is applied. There is actually a tab that physically limit the amount of displacement the part is able to take when fixing the bracket to the rail.
 As a bonus, you now have a solid "click" that indicate positive engagement on the rail.
