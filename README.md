@@ -18,12 +18,18 @@ Inspired by a design from *mdkendall* found in Thingiverse (https://www.thingive
 The new design is much more robust since the layers are orthogonal to the DIN metal edge and aren't forced to split if too much force is applied. There is actually a tab that physically limit the amount of displacement the part is able to take when fixing the bracket to the rail.
 As a bonus, you now have a solid "click" that indicate positive engagement on the rail.
 
+**Note**: You need to print them on the side.
+
+
+
 You can find the original CAD files for yourself to modify at the following link:
 
 * https://cad.onshape.com/documents/e1400e482e11e6feaafa25e2/w/4ebae206ffa084ed4d28eaac/e/109653898832969a46216836
 
-![[section_view_bracket.png]]
 
-![[din_bracket.gif]]
 
-![[unknown-1.png]]
+![din_bracket](/Users/mmemete/alternative_din_brackets/Images/section_view_bracket.png)
+
+![din_bracket](/Users/mmemete/alternative_din_brackets/Images/din_bracket.gif)
+
+![photo_3d_printed_din_brackets](/Users/mmemete/alternative_din_brackets/Images/photo_3d_printed_din_brackets.png)
